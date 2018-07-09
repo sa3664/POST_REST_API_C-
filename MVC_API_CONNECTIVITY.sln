@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_API_CONNECTIVITY", "MVC_API_CONNECTIVITY\MVC_API_CONNECTIVITY.csproj", "{05E853BA-A47C-4C63-9D0E-AEAD7E3B2267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_API_CONNECTIVITY.Tests", "MVC_API_CONNECTIVITY.Tests\MVC_API_CONNECTIVITY.Tests.csproj", "{CA6EE9D4-AD38-4AF7-81C9-2D1BDC993106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05E853BA-A47C-4C63-9D0E-AEAD7E3B2267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E853BA-A47C-4C63-9D0E-AEAD7E3B2267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E853BA-A47C-4C63-9D0E-AEAD7E3B2267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E853BA-A47C-4C63-9D0E-AEAD7E3B2267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6EE9D4-AD38-4AF7-81C9-2D1BDC993106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6EE9D4-AD38-4AF7-81C9-2D1BDC993106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6EE9D4-AD38-4AF7-81C9-2D1BDC993106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6EE9D4-AD38-4AF7-81C9-2D1BDC993106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3C48EC0-D85D-4DE7-9799-DB003740DA84}
+	EndGlobalSection
+EndGlobal
